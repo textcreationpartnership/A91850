@@ -1,0 +1,275 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact summary, of the transactions in the treaty at Breda: containing, the most remarkable occurrences that hap'ned in their consultations: and the Scots commissioners proposals to their declared King, for an agreement; his answer thereunto: with the sending of a letter to the Queen his mother in France, touching his condescensions. As it was related by Dr. Rivet, tutor to the Prince of Orange. Also, the declaration of the states of Hamborough, concerning the Parliament of England; and the proceedings of the Queen of Swedens Embassador, touching the declared King of Scots.</title>
+            <author>Rivet, André, 1572-1651.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91850</idno>
+            <idno type="STC">Wing R1554</idno>
+            <idno type="STC">Thomason E602_6</idno>
+            <idno type="STC">ESTC R206408</idno>
+            <idno type="EEBO-CITATION">99865569</idno>
+            <idno type="PROQUEST">99865569</idno>
+            <idno type="VID">117814</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91850)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117814)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E602[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact summary, of the transactions in the treaty at Breda: containing, the most remarkable occurrences that hap'ned in their consultations: and the Scots commissioners proposals to their declared King, for an agreement; his answer thereunto: with the sending of a letter to the Queen his mother in France, touching his condescensions. As it was related by Dr. Rivet, tutor to the Prince of Orange. Also, the declaration of the states of Hamborough, concerning the Parliament of England; and the proceedings of the Queen of Swedens Embassador, touching the declared King of Scots.</title>
+                  <author>Rivet, André, 1572-1651.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.H. and are to be sold at the Royall-Exchange,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: J.P.</note>
+                  <note>The first "declared" on title page enclosed in square brackets.</note>
+                  <note>Annotation on Thomason copy: "May. 24".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Early works to 1800.</term>
+               <term>Treaties --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Treaties --  Scotland --  17th century.</term>
+               <term>Scotland --  Foreign relations --  Treaties --  England --  17th century.</term>
+               <term>Sweden --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:117814:1" rendition="simple:additions"/>
+AN EXACT SUMMARY, OF The tranſactions in the TREATY at BREDA: <hi>CONTAINING,</hi> The moſt
+remarkable Occurrences that hap'ned in their Conſultations: And the <hi>Scots</hi>
+Commiſſio<g ref="char:EOLhyphen"/>ners Propoſals to their [declared] King, for an Agreement; his Anſwer thereunto:
+With the ſending of a Letter to the Queen his Mother in <hi>France,</hi> touching his
+Condeſcenſions.</p>
+            <p>
+               <hi>As it was related by Dr.</hi> Rivet, <hi>Tutor to the Prince of Orange.</hi>
+            </p>
+            <p>Alſo, the Declaration of the States of <hi>Hamborough,</hi> concerning the Parliament of
+<hi>England;</hi> And the Pro<g ref="char:EOLhyphen"/>ceedings of the Queen of <hi>Swedens</hi> Embaſſador, touching
+the declared King of <hi>Scots.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>G. H.</hi> and are to be ſold at the
+<hi>Royall-Exchange.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="summary">
+            <pb facs="tcp:117814:2"/>
+            <pb n="1" facs="tcp:117814:2"/>
+            <head>AN EXACT SUMMARY, OF THE Proceedings of the <hi>Treaty</hi> at <hi>Breda.</hi>
+Illuſtrating, the moſt remarkable Occurrences which hap'ned in their ſeverall diſputes and
+conſulta<g ref="char:EOLhyphen"/>tions.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving lately croſſed the <hi>Alps</hi> in <hi>Italy,</hi> I am now returned to fair
+<hi>Breda;</hi> a Town ſwelling with delight, gallantry, and wealth; whoſe Artiſans are very
+rare and eminent, both in the Schools of <hi>Mars,</hi> and <hi>Venus;</hi> and indeed ſo
+beautifull is the Fa<g ref="char:EOLhyphen"/>brick, that the King of <hi>Spain</hi> formerly ſaid; <hi>That ſhe was
+fitting to be ſhewn and ſeen upon Holy-dayes, by rea<g ref="char:EOLhyphen"/>ſon of her great worth, and excellency,
+in training and nurſing of the most true-bred Cavalry.</hi>
+            </p>
+            <p>In which beautifull place (during my reſidence there) I made the <hi>Treaty</hi> my chiefeſt
+object; the tranſ<g ref="char:EOLhyphen"/>actions whereof [between the Royall-party and the <hi>Scots</hi>] I
+ſeriouſly re-viewed with an Eagles eye; And becauſe I will not deceive your expectation, nor
+leave you unſatisfied therein, I ſhall preſume to ſalute you
+<pb n="2" facs="tcp:117814:3"/>
+with an exact Summary, of the moſt Remarkable Occurrencs that happened in their diſputes, and
+con<g ref="char:EOLhyphen"/>ſulations; which were as followeth:</p>
+            <p>The Commiſſioners (on both parties) for many dayes, having been very private in their
+negotia<g ref="char:EOLhyphen"/>tions, their reſults are now come to ſome maturity; occaſioned by the
+Commiſſioners laſt finall and De<g ref="char:EOLhyphen"/>claratory ſpeeches and propoſitions; where in plain
+terms they laid open to their declared Kings view, the apparent and inevitable danger that
+threatned him, if he ſtill perſiſted in his evill wayes, depending and hearkening too much to
+the advice of his corrupted Counſell; and that if he did not ſpeedily caſt them off, and
+unfeignedly embrace the advice of his ſub<g ref="char:EOLhyphen"/>jects of <hi>Scotland,</hi> they would (for the future)
+make no further addreſſes unto him; and therefore hum<g ref="char:EOLhyphen"/>bly deſired him, ſpeedily and
+effectually to give in his finall Anſwer to their Deſires and Propoſals; to the end, that
+thoſe judgements might be prevented, which ſo inevitably threaten the deſtroying of the
+Cedars of his late Fathers houſe: And firſt, they hum<g ref="char:EOLhyphen"/>bly deſired, that he would graciouſly
+be pleaſed to ſigne and ſubſcribe to the ſolemn League and Cove<g ref="char:EOLhyphen"/>nant, and to give his
+aſſent for the ſetling of the Preſbyterian Government, throughout his Domi<g ref="char:EOLhyphen"/>nion. To which
+particulars he anſwered, that as for the Covenant, he held it both unneceſſary and
+un<g ref="char:EOLhyphen"/>ſuitable for him to ſigne thereunto; it being a thing proper for the obliging and binding of
+the people more firm and ſtedfaſt in their lawfull obedience and loyalty to their Soveraign,
+rather then a Soveraign to take an oath to be true to himſelf, and the preſer<g ref="char:EOLhyphen"/>vation of his own
+perſon, which by the laws of God
+<pb n="3" facs="tcp:117814:3"/>
+and Nature he is bound to perform, &amp;c. Further in<g ref="char:EOLhyphen"/>timating, that he would give his conſent
+for the pro<g ref="char:EOLhyphen"/>pagating and tendering the ſame to all his ſubjects, for their ſubſcriptions,
+&amp;c. ſo that himſelf might go free. But this would not ſatisfie the <hi>Scots,</hi> for
+they have other ends to ſerve upon him.</p>
+            <p>From this branch, the Commiſſioners inſiſted up<g ref="char:EOLhyphen"/>on the next, which was, That he would be
+pleaſed to give his aſſent for the ſetling and eſtabliſhing of the Preſbyterian
+Government, which after he had a while maturely debated thereon, he replied, that he would freely
+aſſent thereunto [provided] that he might enjoy liberty of conſcience in the way of
+Epiſcopacy, and that he might have the continu<g ref="char:EOLhyphen"/>all uſe of three of his Chaplains, to
+adminiſter, and practiſe with him, and that they might have free leave to go along with him
+into <hi>Scotland:</hi> But this was ab<g ref="char:EOLhyphen"/>ſolutely denied by the Commiſſioners, urging it was
+againſt their Covenant, and they ſeemed to be much diſpleaſed at the motion, and ſaid, it
+was in vain to treat, if he ſtood that way affected.</p>
+            <p>Laſtly, they earneſtly implored him, that hee would be pleaſed to condeſcend, that the
+<hi>Militia</hi> of that Kingdome might continue in the hands of ſuch as the Committee of
+Eſtates ſhould confide in, for the preſervation of the Kingdome peace and tran uili<g ref="char:EOLhyphen"/>ty, and
+putting it poſture of defence, in cafe of any oppoſition or attempt; to which he replyed, that
+he could not in honour give his aſſent thereun<g ref="char:EOLhyphen"/>to; but (becauſe he would not altogether leave
+them unſatisfied in their deſires) for five years, hee moſt freely gave his
+condeſcenſion; deſiring a bleſ<g ref="char:EOLhyphen"/>ſing from heaven therein to accompany them.</p>
+            <p>
+               <pb n="4" facs="tcp:117814:4"/>
+But the Earl of <hi>Lannerick</hi> (fore-ſeeing what would enſue, if the Treaty took not
+effect) implored him, to ſigne to an Agreement; and to give his condiſcen<g ref="char:EOLhyphen"/>tion to thoſe
+particulars before related: By whoſe perſwaſions, he aſſented unto them, and conſented
+to an Agreement. And I was certified by a Gentleman of very good eſtimation, that he heard Doctor
+<hi>Ri<g ref="char:EOLhyphen"/>vet</hi> (Tutour to the Prince of <hi>Orange)</hi> affirm, That he was an eye-witneſſe
+of the King of <hi>Scots</hi> ſigning the Agreement, and that all things in debate between the
+Commiſſioners, were concluded on the firſt of this inſtant <hi>May:</hi> And that a
+Meſſenger was forth<g ref="char:EOLhyphen"/>with diſpatched into <hi>France</hi> to the <hi>Queen</hi> (from her
+ſonne) wherein he certified her, that the Treaty was finiſhed, and that hee had made an
+Agreement with the <hi>Scots</hi> Commiſſioners, and yeelded to moſt of their demands, in
+relation to themſelves; but with proviſion for the royall-party.</p>
+            <p>It is likewiſe reported, that the Covenant is to be impoſed on none in <hi>England,</hi> but
+all that will take it may; and likewiſe to be authorized and allowed of, in all that have already
+taken and ſubſcribed thereun<g ref="char:EOLhyphen"/>to; And that he hath alſo condeſcended to conform himſelf to
+the form of Divine worſhip in <hi>Scotland;</hi> [which I cannot be perſwaded to give credit
+to] But this is done chiefly by the Lord <hi>Lannerick,</hi> who hopes (by giving all that is
+demanded) to bring the demand<g ref="char:EOLhyphen"/>ers into a condition to loſe all they have got, and to fruſtrate
+their expectations, in what they really thought to have accompliſhed: For divers of the
+royall-party leaves no means unattempted, for the propagating of Monarchicall intereſt, and have
+ear<g ref="char:EOLhyphen"/>neſtly ſolicited the Duke of <hi>Lorain</hi> (as I am very cre<g ref="char:EOLhyphen"/>dibly
+<pb n="5" facs="tcp:117814:4"/>
+informed) to give his aſſiſtance therein; which (if the Peace between <hi>France</hi> and
+<hi>Spain</hi> could be effe<g ref="char:EOLhyphen"/>cted) would bee ready enough to do you miſchief; and
+<hi>Scotland</hi> would be made a trap-door (ſecretly) to let in your enemies; therefore be
+wiſe, and ſecure that paſſage this Summer, leſt miſſing ſo fair an op<g ref="char:EOLhyphen"/>portunity,
+you repent when 'tis too late.</p>
+            <p>As ſoon as the Treaty was concluded, the Com<g ref="char:EOLhyphen"/>miſſioners diſpatched a Letter to the
+Committee of Eſtates in <hi>Scotland,</hi> with a Copy of the Articles; deſi<g ref="char:EOLhyphen"/>ring a
+confirmation of the ſame, the Lord <hi>Louthain</hi> and the Lord <hi>Liverton,</hi> being
+confident they will prove ſatisfactory to the Kirk and State, but the Earl of
+<hi>Caſſels</hi> and others, are of another minde.</p>
+            <p>But the counſels by which theſe things are carried, are not primarily Preſbyterian, for
+the <hi>Queen of Swedens</hi> Secretary (here reſident during the Treaty) ſeems greatly
+affected to Monarchy, and hath given large promiſes from his Miſtreſſe, for the
+propaga<g ref="char:EOLhyphen"/>ting thereof; which occaſioned a great rumour, that if the <hi>Scots</hi> had not
+anſwer'd their expectations (by receiving of what promiſed in way of condeſcenſion) that
+their declared King would go into <hi>Sweden,</hi> giving out (how true I know not) that a marriage
+between the <hi>Queen</hi> and <hi>Sweden,</hi> and the King of <hi>Scots,</hi> could not be
+unacceptable to her Councell.</p>
+            <p>But yet notwithſtanding all this, the royall-party (here ſeems to be exceedingly
+creſt-faln, and much caſt down, by reaſon of the falling off of many in place and authority,
+who formerly promiſed them aid and aſſiſtance, and that which doth at preſent ſo much
+diſtaſte them, is the receipt of an extract from <hi>Hambrough;</hi> wherein is intimated, the
+arrivall of Mr.
+<pb n="6" facs="tcp:117814:5"/>
+               <hi>Richard Bradſhaw</hi> Reſident for the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> who was very
+joyfully received, and entertai<g ref="char:EOLhyphen"/>ned with a gallant volley of great ſhot, and a noiſe of
+Trumpets; Upon his going to audience, he was ac<g ref="char:EOLhyphen"/>companied with ſeverall Coaches, and divers
+Engliſh Merchants, and others of good quality: Where ha<g ref="char:EOLhyphen"/>ving delivered his Embaſſie, with an
+excellent grace and ſingular Oratory, the States ſeemed to be exceed<g ref="char:EOLhyphen"/>ingly pleaſed thereat,
+ſhewing good affection to the preſent Government of <hi>England,</hi> and withall decla<g ref="char:EOLhyphen"/>red;
+That they deſired nothing more then a conſtant and perfect league of amity and friendſhip
+with his Maſters (the States of <hi>England</hi> and <hi>Ireland)</hi> and that nothing ſhould
+be wanting in them, for the due ob<g ref="char:EOLhyphen"/>ſervation and performing thereof; with ſome other
+declaratory expreſſions, much to the ſame effect.</p>
+            <p>Here are divers Commanders (both <hi>Engliſh</hi> and <hi>Scots)</hi> who daily look for
+employment, and are per<g ref="char:EOLhyphen"/>ſwaded the <hi>Scots, &amp;c.</hi> will engage againſt <hi>England</hi>
+this ſummer; but as far as I can gather (by their agita<g ref="char:EOLhyphen"/>tors in theſe parts) there is little
+probability. Not<g ref="char:EOLhyphen"/>withſtanding, I ſhall diligently attend their motions, and if I can attain to
+any thing worthy your accept<g ref="char:EOLhyphen"/>ance, be confident it ſhall be communicated to your knowledge;
+By</p>
+            <closer>
+               <dateline>Breda,
+<date>the 15. of May, 1650.</date>
+               </dateline>
+               <signed>Your most affectionate Serviteur, J. P.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
